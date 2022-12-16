@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biruh Tesfaye</h1>
 <h3 align="center">A passionate python developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Amazon DSP automation bot project**
+- 🔭 I’m currently working on **Amazon DSP automation bot project and freelancing on upwork**
 
 - 🌱 I’m currently learning **Django**
 
